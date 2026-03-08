@@ -6,6 +6,10 @@
 
 ![Bitcoin price and log-returns (2015–2025)](fig_btc_series.png)
 
+## Main result
+
+![Backtesting panel — GAMLSS-PE vs benchmarks (2024–2025)](fig_backtest_panel.png)
+
 ## Overview
 
 This repository provides data and code to replicate all results in the paper. We compare **GAMLSS** models (Power Exponential and Generalized t distributions) against standard benchmarks (Historical Simulation, iGARCH, GARCH-sstd) for 1% VaR and ES forecasting of Bitcoin daily returns, using a 1,000-day rolling window over 2024–2025.
