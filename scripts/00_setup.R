@@ -16,7 +16,7 @@ library(scales)
 library(xtable)
 
 options(scipen = 999)
-set.seed(42)
+set.seed(2026)
 
 # Sample periods
 TRAIN_START  <- as.Date("2015-01-01")
